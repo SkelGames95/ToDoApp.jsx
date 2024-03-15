@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+:root{
+    --doit-dark-blue: #1572f5;
+    --doit-light-blue: #0072ff;
+    --light-blue: #15b2f5;
+    --snooze-yellow: #ffc107;
+    --red-fail: #ed1c24;
+    --lighter-red: #ff3131;
+    --lightest-grey: #d9d9d9;
+    --mid-grey: #cfcfcf;
+    --dark-grey: #afafaf;
+    --done-green: #5fb643;
+    --small-text: 14px;
+    --mid-text: 16px, bold;
+    --title: 38px, bold;
+}
