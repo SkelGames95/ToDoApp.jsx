@@ -1,9 +1,11 @@
+import classes from './style/App.module.scss';
+import { Title } from "./Title";
+
 const App = () => {
   return (
-    <div>
-      <h1>HELLO WORLD</h1>
-      <p>yuuuuhuuuuuuu</p>
-      {/* <Title /> */}
+    <div className={classes.structure}>
+      <Title />
+      
       {/* <Sidebar /> */}
       {/* <Body /> */}
     </div>
