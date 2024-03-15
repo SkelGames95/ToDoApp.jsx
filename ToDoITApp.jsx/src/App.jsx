@@ -1,9 +1,11 @@
-export const App = () => {
+const App = () => {
   return (
-    <>
-      <Title />
+    <div>
+      <h1>HELLO WORLD</h1>
+      {/* <Title />
       <Sidebar />
-      <Body />
-    </>
+      <Body /> */}
+    </div>
   );
 };
+export default App;
